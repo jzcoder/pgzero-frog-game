@@ -12,7 +12,7 @@ https://pygame-zero.readthedocs.org/en/latest/installation.html
 ## Game Description
 The objective of this game is to move the Frog to the safety of a rock by
 using a grid of disappearing lilypads. This is an even simpler version of
-the Russian game [Perestroika (Toppler)]([https://en.wikipedia.org/wiki/Perestroika_(video_game)).
+the Russian game [Perestroika (Toppler)](https://en.wikipedia.org/wiki/Perestroika_(video_game)).
 
 ## Lessons
 
