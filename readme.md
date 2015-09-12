@@ -28,13 +28,16 @@ the Russian game [Perestroika (Toppler)](https://en.wikipedia.org/wiki/Perestroi
 ## Attribution
 
 ### Graphics
-  Frog & Lilypad -- "Art from GameArtGuppy.com"
+  Frog & Lilypad -- "Art from GameArtGuppy.com"  
   http://www.gameartguppy.com/shop/frog-lilypad/
 
+  Fly -- "Art from GameArtGuppy.com"  
+  http://www.gameartguppy.com/shop/fly/
+
 ### Music
-  "The Lucky Bench" by Rolemusic
+  "The Lucky Bench" by Rolemusic  
   http://freemusicarchive.org/music/Rolemusic/~/The_Lucky_Bench
 
 ### Sound Effects
-  Generated with jsfxr
+  Generated with jsfxr  
   http://github.grumdrig.com/jsfxr/
