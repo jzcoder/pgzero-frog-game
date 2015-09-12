@@ -1,10 +1,12 @@
 # Frog & Lilypad game tutorial
 
+![Game Clip](docs/images/game_clip.gif?raw=true)
+
 ## Objective
 This is a short tutorial on building up a simple game using Pygame Zero. It
 was presented at DFW Pythoneers Sept 12 2015 meetup.
 
-See PyGame Zero documentation for installation instructions:
+See PyGame Zero documentation for installation instructions:  
 https://pygame-zero.readthedocs.org/en/latest/installation.html
 
 ## Game Description
@@ -14,14 +16,14 @@ the Russian game [Perestroika (Toppler)]([https://en.wikipedia.org/wiki/Perestro
 
 ## Lessons
 
-[Lesson 1](lesson1/readme.md)
-[Lesson 2](lesson2/readme.md)
-[Lesson 3](lesson3/readme.md)
-[Lesson 4](lesson4/readme.md)
-[Lesson 5](lesson5/readme.md)
-[Lesson 6](lesson6/readme.md)
-[Lesson 7](lesson7/readme.md)
-[Lesson 8](lesson7/readme.md)
+- [Lesson 1](lesson1/readme.md)
+- [Lesson 2](lesson2/readme.md)
+- [Lesson 3](lesson3/readme.md)
+- [Lesson 4](lesson4/readme.md)
+- [Lesson 5](lesson5/readme.md)
+- [Lesson 6](lesson6/readme.md)
+- [Lesson 7](lesson7/readme.md)
+- [Lesson 8](lesson7/readme.md)
 
 ## Attribution
 
