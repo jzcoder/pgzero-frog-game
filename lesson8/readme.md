@@ -4,4 +4,5 @@
 - Added level
 - Added scoring
 
-* THIS IS CURRENTLY THE LAST LESSON *
+
+**THIS IS CURRENTLY THE LAST LESSON**

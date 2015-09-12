@@ -4,7 +4,7 @@
 
 ## Objective
 This is a short tutorial on building up a simple game using Pygame Zero. It
-was presented at DFW Pythoneers Sept 12 2015 meetup.
+was presented at the [DFW Pythoneers Sept 12, 2015 meetup](http://www.meetup.com/dfwpython/events/222577053/).
 
 See PyGame Zero documentation for installation instructions:  
 https://pygame-zero.readthedocs.org/en/latest/installation.html
