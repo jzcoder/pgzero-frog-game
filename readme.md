@@ -23,7 +23,7 @@ the Russian game [Perestroika (Toppler)](https://en.wikipedia.org/wiki/Perestroi
 - [Lesson 5](lesson5/readme.md)
 - [Lesson 6](lesson6/readme.md)
 - [Lesson 7](lesson7/readme.md)
-- [Lesson 8](lesson7/readme.md)
+- [Lesson 8](lesson8/readme.md)
 
 ## Attribution
 
